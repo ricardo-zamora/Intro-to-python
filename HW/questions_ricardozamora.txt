@@ -1,0 +1,15 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+ls shows you a list of files of where you currently are. CD takes you to 
+another directory. mkdir creates a new directory. 
+2. Do you have pets? What kind?
+I don't. After my wiener dog Luna passed away, I don't know if I'll ever 
+have another pet. 
+3. If you run across an error, what would your first course of action be?
+Inspect the error message. 
+4. Funniest thing that happened to you in high school.
+I fell asleep in history class and my teacher made me march 32 hours with 
+my rifle. (I went to a military boarding school in NM). 
+5. What is a python script? (Keep it simple)
+It is a text file with a series of instructions. 
+
+
